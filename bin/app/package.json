@@ -1,0 +1,11 @@
+{
+    "name": "adobe_io_events",
+    "version": "0.0.1",
+    "description": "Splunk modular input for getting Adobe I/O Events via Journaling API",
+    "main": "adobe_io_events.js",
+    "dependencies": {
+        "jsonwebtoken": "^8.2.1",
+        "splunk-sdk": ">=1.4.0"
+    },
+    "author": "Hiren Shah"
+}
