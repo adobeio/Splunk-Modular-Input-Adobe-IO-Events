@@ -5,7 +5,7 @@
 3. Open a terminal at `$SPLUNK_HOME/etc/apps/adobe_io_events/bin/app`.
 4. Run `npm install`.
     
-    If this step fails
+    If this step fails . 
     4.1 [Clone the SDK from Github](https://github.com/splunk/splunk-sdk-javascript).  
     4.2 Copy the full `splunk-sdk-javascript` folder to `$SPLUNK_HOME/etc/apps/adobe_io_events/bin/app/node_modules`.  
     4.3 Rename this copied folder as `splunk-sdk`.  
