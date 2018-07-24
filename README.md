@@ -28,6 +28,7 @@
 5. Do a search for `sourcetype=adobe_io_events` and you should see some events indexed, if your integration has a large number of events indexing them may take a few moments.
 
 # Credits
+- [splunk-sdk-javascript] (https://github.com/splunk/splunk-sdk-javascript)
 - Hiren Shah [@hirenoble](https://github.com/hirenshah111)
 
 # License
