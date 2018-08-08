@@ -29,7 +29,7 @@
 
 # Credits
 - [splunk-sdk-javascript](https://github.com/splunk/splunk-sdk-javascript)
-- Hiren Shah [@hirenoble](https://github.com/hirenshah111)
+- Hiren Shah [@hirenoble](https://github.com/hirenoble)
 
 # License
 [MIT](LICENSE)
